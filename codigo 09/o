@@ -1,0 +1,9 @@
+root@ubuntu:~$ curl localhost:8080
+<h1>Computacao em nuvem/<h1
+<p>Meu primeiro servico web remoto</p>
+root@ubuntu:~$ curl localhost:8080
+<h1>Computacao em nuvem/<h1
+<p>Meu primeiro servico web remoto</p>
+<p>Aluno: Joao Gabril de Souza Lima</p>
+<p>aula3 - Modelos de Implatacao</p>
+root@ubuntu:~$ 
